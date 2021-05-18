@@ -1,2 +1,2 @@
 # ALE
-Primer repoitorio
+Primer repositorio
